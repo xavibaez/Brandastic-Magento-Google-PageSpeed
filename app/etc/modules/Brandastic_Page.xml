@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Brandastic_Page>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Brandastic_Page>
+    </modules>
+</config>
