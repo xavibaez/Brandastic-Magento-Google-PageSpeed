@@ -3,7 +3,9 @@
  * User: Xavier
  * Date: 9/5/17
  * Time: 3:39 PM
- */
+ * This extension is compatible with Yoast SEO as it overrites the same Block.
+ * Yoast SEO is not required and this module can be configured to overrite Magento natively.
+*/
 
 class Brandastic_Page_Block_Html_Head extends Yoast_CanonicalUrl_Block_Head
 {
