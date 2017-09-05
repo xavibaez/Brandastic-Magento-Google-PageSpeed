@@ -4,6 +4,7 @@ author: Xavier Baez
 ------------------------------------------------------------------
 HOW TO USE:
 
+Optimize Magento CSS and JS Merge which presents various stability problems. Optimize Magento for Google PageSpeed Insights my automatically merging the CSS and JS files in the header.
 1. Magento Admin Panel, navigate to System -> Configuration -> Advanced -> Developer.
 2. Enable CSS and JS settings.
 3. Enable CSS and JS merging.
